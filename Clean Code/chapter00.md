@@ -1,3 +1,5 @@
+# [Clean Code] 0. 들어가면서
+
 코드 품질을 측정하는 유일한 척도 
 - 분당 내지르는 WTF 횟수!
 ![](https://velog.velcdn.com/images/yun_haaaa/post/e70d7023-5cb5-4496-9828-ea93495087b2/image.png)
